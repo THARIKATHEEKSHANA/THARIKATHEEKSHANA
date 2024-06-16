@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @THARIKATHEEKSHANA
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on new projects
+- 📫 How to reach me, Contact me via mail
+- 😄 Pronouns: nothing 
+- ⚡ Fun fact: ha ha 
 
 <!---
 THARIKATHEEKSHANA/THARIKATHEEKSHANA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
